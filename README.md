@@ -1,5 +1,5 @@
 # team-22
-<img src="https://img.shields.io/github/contributors/varshney00/team-22" />    
+<img src="https://img.shields.io/github/contributors/varshney00/team-22" />
 <img src="https://img.shields.io/npm/v/node" />    
 
 ### ECE 461
