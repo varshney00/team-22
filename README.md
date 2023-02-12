@@ -17,17 +17,19 @@ We have created a command-line interface that you can use to obtain a ranking of
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcxrant" />
 
 ## Setup
-1. Clone this repository
-2. Run the following command:
+1. Obtain a Github Token  
+- Follow steps 1 through 8 in this link: https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token  
+2. Clone this repository  
+3. Run the following commands:  
 ```
 npm install
 ./run install
-```
-3. Create a testfile with the following content:
+**github line here**
+```  
+4. Create a testfile with the following content:
 ```
 https://github.com/cloudinary/cloudinary_npm
 ```
-4. Obtain a Github Token?
   
 ## Instructions
 Here is the format of a sample command:   
